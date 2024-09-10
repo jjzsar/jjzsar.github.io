@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jjzsar.github.io/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/app/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/assets/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/css/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/includes/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/item/sitemap.html.gz
+Sitemap: https://jjzsar.github.io/src/sitemap.html.gz
